@@ -1,6 +1,6 @@
 # Tris.c
 
-this section contains the finished projects of alessandro salvadori regarding C
+this section contains a more complex finished project of a tris(ti-tac-toe) game in C
 
 # requisites
 
