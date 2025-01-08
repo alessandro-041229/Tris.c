@@ -10,13 +10,16 @@ vertical, or diagonal row first is the winner.
 
 # requisites
 
-for run the seguent set of programms is necessary to have downloaded any application who can run C programs
+* for run the seguent set of programms is necessary to have downloaded any application who can run C programs
 suggesting codeblox for it wich can be downlaoded here https://www.codeblocks.org/downloads/
 
 # how to run
 
-for running the downloaded programms it only requires to open the codeblox app, choose to open and existing project
-and then select the downloaded project, specific the file .c inside of t
+1. for running the downloaded programms it only requires to open the codeblox app 
+  ![codeblox](https://upload.wikimedia.org/wikipedia/commons/f/f7/Code_blocks_16.01.png) 
+2. go on 'file' on the top left and choose the open an existing one, selecting the C file you will have downloaded from here.
+3. after having selected it, you will just have to run it by pressing the green arrow and the work is done
+
 
 # how to play
 
